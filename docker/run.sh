@@ -1,0 +1,1 @@
+docker run -d -p 2222:2222 --name=mcsv-MS001-PruebaNumero22 mcsv-MS001-PruebaNumero22
